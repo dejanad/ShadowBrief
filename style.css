@@ -1,11 +1,11 @@
 html, body {
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
+  overflow: hidden;
 }
-body {
+/* body {
   position: relative;
-}
+} */
 canvas {
   display: block;
 }
