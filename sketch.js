@@ -2,12 +2,12 @@ let screen;
 
 function setup() {
 createCanvas(displayWidth, displayHeight);//adjusts to screen size 
-  background(220);
+  background(225);
 }
 
 function draw() {
 
-  stroke(255);
+  stroke("pink");
   strokeWeight(3);
   if (mouseIsPressed === true) {
     line(mouseX, mouseY, pmouseX, pmouseY);
