@@ -45,10 +45,10 @@ text-decoration: none;
   background-color: #daf3ff;
 }
 
-
+/* drop down */
 .content {
   padding: 0 18px;
   display: none;
   overflow: hidden;
-  background-color: #daf3ff;
+  background-color: #f6fcff;
 }
