@@ -2,7 +2,7 @@ let screen;
 
 function setup() {
 createCanvas(displayWidth, displayHeight);//adjusts to screen size 
-  background(225);
+  background(255);
 }
 
 function draw() {
