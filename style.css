@@ -1,6 +1,10 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 40px;
+  font-family: Helvetica, sans-serif;
 /*   stop page from scrolling */
   overflow: hidden;
   position: fixed;
@@ -11,6 +15,10 @@ html, body {
 } */
 canvas {
   display: block;
+}
+/* removes underline from links */
+ a {
+text-decoration: none;
 }
 /* .lock-screen {
     height: 100%;
