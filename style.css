@@ -1,13 +1,18 @@
 html, body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
+}
+body {
+  position: relative;
 }
 canvas {
   display: block;
 }
-.lock-screen {
+/* .lock-screen {
     height: 100%;
     overflow: hidden;
     width: 100%;
     position: fixed;
 }
+ */
